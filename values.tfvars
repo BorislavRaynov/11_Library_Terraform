@@ -1,7 +1,7 @@
 resource_group_name              = "b_raynovlibraryrg"
 resource_group_location          = "West Europe"
 app_service_plan_name            = "braynovlibrary-sp"
-app_service_name                 = "b_raynov"
+app_service_name                 = "b-raynov"
 sql_server_name                  = "braynovlibrary-sql"
 sql_database_name                = "braynovlibrary-db"
 sql_administrator_login_username = "Bobi1"
